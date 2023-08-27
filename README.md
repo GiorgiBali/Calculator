@@ -1,5 +1,15 @@
-#Calculator
+# Calculator
 
-One-line Calculator built via HTML, CSS and JS.
-Performs +, -, *, /
+## Description
+
+One-line Calculator.
+
+## Features
+
+Available Operations: +, -, *, /.
+
 Recognizes parenthesis.
+
+## Technologies
+
+HTML, CSS, JS.
